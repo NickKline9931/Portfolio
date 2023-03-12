@@ -35,6 +35,9 @@ footer {
     padding-left: 10px;
 }
 
+footer > * {
+    margin-right: 20px;
+}
 
 a {
     text-decoration: none;
@@ -52,7 +55,7 @@ a {
         flex-direction: column;
     }
 
-    main {
+    body {
         overflow-x: hidden;
     }
 }
