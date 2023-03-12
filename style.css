@@ -65,6 +65,13 @@ a {
     }
 }
 
+@media (max-width: 667px) and (orientation: portrait) {
+    header {
+        width: 100%;
+        background-color: red;
+    }
+}
+
 .workcontainer > div {
     max-width: 380px;
     height: auto;
