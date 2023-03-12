@@ -55,7 +55,7 @@ a {
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding-left: 18%;
+        padding-left: 20%;
     }
 
     body {
@@ -67,9 +67,8 @@ a {
 
     header {
         width: 500px;
-        background-color: red;
         position: relative;
-        left: 30px;
+        left: 35px;
     }
 
     .nameplate {
