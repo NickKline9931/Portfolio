@@ -70,7 +70,7 @@ a {
         width: 100%;
         background-color: red;
         position: relative;
-        left: 50px;
+        left: 60px;
     }
 
     .workcontainer {
@@ -80,6 +80,10 @@ a {
     main > h1 {
         position: relative;
         left: 70px;
+    }
+
+    footer {
+        flex-direction: column;
     }
 }
 
