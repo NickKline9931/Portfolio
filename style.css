@@ -70,11 +70,11 @@ a {
         width: 100%;
         background-color: red;
         position: relative;
-        left: 60px;
+        left: 50px;
     }
 
     .workcontainer {
-        padding-left: 40%;
+        padding-left: 35%;
     }
 
     main > h1 {
