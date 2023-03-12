@@ -54,6 +54,10 @@ a {
         display: flex;
         flex-direction: column;
     }
+
+    main {
+        overflow-x: hidden;
+    }
 }
 
 .workcontainer > div {
