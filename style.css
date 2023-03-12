@@ -69,28 +69,6 @@ a {
     }
 }
 
-@media (max-width: 667px) and (orientation: portrait) {
-    header {
-        width: 100%;
-        background-color: red;
-        position: relative;
-        left: 50px;
-    }
-
-    .workcontainer {
-        padding-left: 35%;
-    }
-
-    main > h1 {
-        position: relative;
-        left: 70px;
-    }
-
-    footer {
-        flex-direction: column;
-    }
-}
-
 .workcontainer > div {
     max-width: 380px;
     height: auto;
