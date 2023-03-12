@@ -57,6 +57,10 @@ a {
         align-items: center;
     }
 
+    .nameplate {
+        color: gold;
+    }
+
     body {
         overflow-x: hidden;
         display: flex;
