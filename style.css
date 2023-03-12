@@ -63,6 +63,15 @@ a {
         display: flex;
         flex-direction: column;
         align-items: center;
+        padding-left: 20%;
+    }
+
+    header {
+        width: 100%;
+    }
+
+    .nameplate {
+        width: 100%;
     }
 }
 
