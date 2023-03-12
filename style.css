@@ -70,6 +70,15 @@ a {
         width: 100%;
         background-color: red;
     }
+
+    .workcontainer {
+        padding-left: 20%;
+    }
+
+    main > h1 {
+        position: relative;
+        left: 10px;
+    }
 }
 
 .workcontainer > div {
