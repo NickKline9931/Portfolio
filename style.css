@@ -49,6 +49,13 @@ a {
     grid-template-rows: 1fr 1fr 1fr;
 }
 
+@media (max-width: 667px) {
+    .workcontainer {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
 .workcontainer > div {
     max-width: 380px;
     height: auto;
