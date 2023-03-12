@@ -63,7 +63,7 @@ a {
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding-left: 20%;
+        padding-left: 30%;
     }
 
     header {
@@ -72,6 +72,10 @@ a {
 
     .nameplate {
         width: 100%;
+    }
+
+    main {
+        width: 100vw;
     }
 }
 
