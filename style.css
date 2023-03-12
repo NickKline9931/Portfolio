@@ -55,7 +55,6 @@ a {
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding-left: 20%;
     }
 
     body {
@@ -63,20 +62,6 @@ a {
         display: flex;
         flex-direction: column;
         align-items: center;
-    }
-
-    header {
-        width: 500px;
-        position: relative;
-        left: 35px;
-    }
-
-    .nameplate {
-        width: 100%;
-    }
-
-    main {
-        width: 100vw;
     }
 }
 
