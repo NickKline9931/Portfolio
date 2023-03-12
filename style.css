@@ -74,12 +74,12 @@ a {
     }
 
     .workcontainer {
-        padding-left: 26%;
+        padding-left: 40%;
     }
 
     main > h1 {
         position: relative;
-        left: 35px;
+        left: 70px;
     }
 }
 
