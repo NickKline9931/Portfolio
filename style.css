@@ -72,6 +72,8 @@ a {
 @media (max-width: 667px) and (orientation: portrait) {
     footer {
         flex-direction: column;
+        width: 100px;
+        align-items: center;
     }
 }
 
