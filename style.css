@@ -101,6 +101,17 @@ a {
   }
 }
 
+@media (max-width: 740px) {
+  footer {
+    flex-direction: column;
+    height: auto;
+  }
+
+  footer > * {
+    margin-bottom: 6px;
+  }
+}
+
 @media (min-width: 700px) and (max-width: 1000px) {
   .workcontainer {
     grid-template-columns: 1fr 1fr;
