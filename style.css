@@ -93,3 +93,17 @@ footer > * {
 a {
   text-decoration: none;
 }
+
+@media (max-width: 700px) {
+  .workcontainer {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (min-width: 700px) and (max-width: 1000px) {
+  .workcontainer {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(5, 1fr);
+  }
+}
