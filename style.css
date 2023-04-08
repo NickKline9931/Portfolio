@@ -1,8 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Rhodium+Libre&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@300;400&family=Rhodium+Libre&family=Slabo+27px&display=swap");
 
 * {
   box-sizing: border-box;
-  font-family: "Rhodium Libre";
+  font-family: "Rhodium Libre", "Slabo 27px", "Fira Sans Condensed", sans-serif;
 }
 
 body {
